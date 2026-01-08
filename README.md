@@ -12,17 +12,27 @@ git clone https://github.com/HostServer001/ascii_char
 ```
 - 2
 ```bash
-cd ascii_char/build
-```
+cd ascii_char
+
 - 3
+```bash
+mkdir build
+```
+
+- 4
+```bash
+cd build
+```
+```
+- 5
 ```bash
 cmake ..
 ```
-- 4
+- 6
 ```bash
 make
 ```
-- 5 A excutable will be genrated in ```ascii_char/build``` directory
+- 7 A excutable will be genrated in ```ascii_char/build``` directory
 ```bash
 ./ascii_char --help
 ```
