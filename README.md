@@ -13,6 +13,7 @@ git clone https://github.com/HostServer001/ascii_char
 - 2
 ```bash
 cd ascii_char
+```
 
 - 3
 ```bash
@@ -23,7 +24,7 @@ mkdir build
 ```bash
 cd build
 ```
-```
+
 - 5
 ```bash
 cmake ..
